@@ -17,4 +17,4 @@ To use it:
     ignore macos node rust
 ```
 
-> Fell free to fork contribute 👷
+> Fell free to fork and contribute 👷
