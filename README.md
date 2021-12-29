@@ -5,6 +5,7 @@ To install it:
 ```bash
     git clone https://github.com/FinaritrAndrianiaina/gitignore-script/
     cd gitignore-script 
+    chmod +x ./install.sh
     ./install.sh
     # Verify
     which ignore
